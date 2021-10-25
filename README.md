@@ -1,6 +1,6 @@
 ## Abstract
 
-The MACP Project is CPQ Tool to offer a Commercial Proposal Automation Module to Empresa GHM Tecnologia e Arte, in order to streamline and minimize the customer waiting time to get an equipment quote. Due to the coronavirus pandemic, social isolation and work in the home office, the quote demand has increased in this company, from teachers and students, as a result the response time to the customer was being compromised. Through this information and the research done  with this audience, from an online form, a web framework was created, which the customer quickly chooses the  kind of computer with the hardware that best suits their needs, and at the end of the choice, a commercial proposal, is also forwarded to the company's commercial department.
+The MACP Project is CPQ Tool to help customers from GHM Tecnologia e Arte Enterprise, to make quotations streamline and minimize the customer waiting time to get an equipment quote. Due to the coronavirus pandemic, social isolation and work in the home office, the quote demand has increased in this company, from teachers and students, as a result the response time to the customer was being compromised. Through this information and the research done  with this audience, from an online form, a web framework was created, which the customer quickly chooses the  kind of computer with the hardware that best suits their needs, and at the end of the choice, a commercial proposal, is also forwarded to the company's commercial department.
 
 ## Code Example
 
